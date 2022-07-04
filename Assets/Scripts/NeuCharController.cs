@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class NeuCharController : MonoBehaviour
 {
-    // Neuer Text
     // Deklaration Rigidbody des Characters
     private Rigidbody rb;
     // Deklaration Animation des Characters
